@@ -1,5 +1,5 @@
 # Linkedin profile scraper
-Interested in using this scraper? Get it here: [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper)
+Interested in using this scraper? Get it here: [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper?fpr=ve081&fp_sid=github_linkedin-profile-scraper)
 ## How it works
 
 This actor works on a logged in linkedin account, but doesn't require login details or 2FA as it does't login but uses already generated linkedin session information.
